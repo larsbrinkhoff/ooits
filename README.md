@@ -10,3 +10,8 @@ There are also some old programs:
 - PEEK 248
 - SALV 9
 - TECO 335
+
+This is a frame from a film showing a 340 display with ancient ITS
+source code, probably PDP-6 era.
+
+![ITS](its.png)
